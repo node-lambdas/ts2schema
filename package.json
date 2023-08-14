@@ -1,0 +1,15 @@
+{
+  "name": "@node-lambdas/",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo true",
+    "build": "echo true"
+  },
+  "keywords": ["node-lambdas"],
+  "author": "Darlan Alves <me@darlanalv.es>",
+  "license": "MIT",
+  "dependencies": {}
+}
